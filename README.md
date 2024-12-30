@@ -1,6 +1,6 @@
 # Bangkit-Academy-2024
 **05 Oktober 2024**<br>
-**Lulus Pada Kelas Memulai Pemrograman dengan Kotlin. (Progres 100%) 
+Lulus Pada Kelas Memulai Pemrograman dengan Kotlin. (Progres 100%) 
 - **Pendahuluan**: Sejarah Kotlin, karakteristik, dan ekosistem.  
 - **Persiapan Program Kotlin**: Gradle, Kotlin DSL, plugin, dan dependensi.  
 - **Kotlin Fundamental**: Tipe data, fungsi, null safety, string template.  
