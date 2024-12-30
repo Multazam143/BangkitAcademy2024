@@ -10,6 +10,6 @@
 - **Functional Programming**: Lambda, higher-order functions, recursion.  
 - **Kotlin Generics**: Variance dan generic.  
 - **Coroutines**: Dasar concurrency dan penggunaan Coroutine.  
-**🎓 **Evaluasi Pembelajaran**  
+🎓 **Evaluasi Pembelajaran**  
 - Ujian akhir dan proyek latihan.  
 - Total waktu pembelajaran: **50 jam**.
