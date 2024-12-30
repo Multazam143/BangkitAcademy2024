@@ -1,7 +1,7 @@
 # Bangkit-Academy-2024
 **25 September 2024**<br>
 **Lulus Pada Kelas Memulai Pemrograman dengan Kotlin. (Progres 100%)**
-📚 **Materi yang Saya Pelajari**<br> 
+### 📚 **Materi yang Saya Pelajari**
 - **Pendahuluan**: Sejarah Kotlin, karakteristik, dan ekosistem.  
 - **Persiapan Program Kotlin**: Gradle, Kotlin DSL, plugin, dan dependensi.  
 - **Kotlin Fundamental**: Tipe data, fungsi, null safety, string template.  
@@ -11,27 +11,26 @@
 - **Functional Programming**: Lambda, higher-order functions, recursion.  
 - **Kotlin Generics**: Variance dan generic.  
 - **Coroutines**: Dasar concurrency dan penggunaan Coroutine.
-🎓 **Evaluasi Pembelajaran**<br>  
+#### 🎓 **Evaluasi Pembelajaran** 
 - Ujian akhir dan proyek latihan.  
 - Total waktu pembelajaran: **50 jam**
-
-
-**6 Oktober 2024**
+# 
+**6 Oktober 2024**<br>
 **Lulus Pada Kelas Belajar Membuat Aplikasi Android untuk Pemula. Progres(100%)**
-📚 **Materi yang Saya Pelajari**<br>  
+### 📚 **Materi yang Saya Pelajari**
 - **Pengenalan Android Studio**: Instalasi dan pengenalan komponen Android Studio.  
 - **Activity**: Membuat aplikasi pertama, desain UI, dan menggunakan `saveInstanceState`.  
 - **Intent**: Menggunakan implicit dan explicit intent, serta mendebug aplikasi.  
 - **View dan ViewGroup**: Mendesain aplikasi dengan berbagai layout (ConstraintLayout, LinearLayout, dll).  
 - **Style dan Theme**: Mendesain aplikasi lebih cepat dengan Style dan Theme.  
 - **RecyclerView**: Menampilkan list dengan RecyclerView dan menambahkan library seperti Glide untuk gambar.  
-🎓 **Evaluasi Pembelajaran**<br>  
+#### 🎓 **Evaluasi Pembelajaran** 
 - **Submission (Proyek Akhir)**: Aplikasi dengan daftar konten dan detailnya.  
 - Total waktu pembelajaran: **60 jam**
-
-**28 Oktober 2024**
+#
+**28 Oktober 2024**<br>
 **Lulus Pada Kelas Belajar Fundamental Aplikasi Android. (Progres 100%)**
-📚 **Materi yang Sedang Saya Pelajari**<br>  
+### 📚 **Materi yang Sedang Saya Pelajari**
 - **Dasar Pengembangan Aplikasi Android**: Memahami Activity, Intent, layout, dan RecyclerView.  
 - **Fragment**: Membuat tampilan modular dan fleksibel dengan Fragment.  
 - **Navigation**: Menggunakan Navigation Component, Option Menu, Navigation Drawer, Bottom Navigation, dan Tab Layout dengan ViewPager2.  
@@ -41,6 +40,17 @@
 - **Testing**: Menguji aplikasi dengan Unit Testing dan Instrumentation Testing.  
 - **Local Data Persistent**: Menyimpan data dengan File Storage, DataStore, dan database Room.  
 - **Background Task dan Scheduler**: Menjalankan task di background dengan AlarmManager dan WorkManager.
-🎓 **Evaluasi Pembelajaran**<br>  
+#### 🎓 **Evaluasi Pembelajaran**  
 - **Submission (Proyek Akhir)**: Aplikasi yang dapat mengambil data dari Web API dan menyimpan data favorit menggunakan database lokal.  
 - Total waktu pembelajaran: **140 jam**
+#
+**30 Oktober 2024**
+**Lulus pada Kelas Belajar Dasar AI**
+### 📚 **Materi yang Sedang Saya Pelajari**  
+- **Berkenalan dengan Artificial Intelligence (AI)**: Memahami konsep dasar tentang AI.  
+- **Data untuk AI**: Pemanfaatan data dalam pengembangan AI.  
+- **Pengantar Machine Learning**: Konsep dasar Machine Learning dan contoh penerapannya.  
+- **Deep Learning Untuk Semua Orang**: Konsep penting dalam Deep Learning dan implementasi penerapannya.  
+#### 🎓 **Evaluasi Pembelajaran**  
+- **Ujian Akhir Kelas**  
+- Total waktu pembelajaran: **10 jam**
