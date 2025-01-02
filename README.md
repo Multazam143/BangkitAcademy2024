@@ -1,66 +1,69 @@
 # Bangkit-Academy-2024
 
-### **Lulus Pada Kelas Memulai Pemrograman dengan Kotlin. (Progres 100%)**<br>
+### **Lulus Pada Kelas Memulai Pemrograman dengan Kotlin. (Progres 100%)**
 **25 September 2024**
 ### 📚 **Materi yang Saya Pelajari**
-- **Pendahuluan**: Sejarah Kotlin, karakteristik, dan ekosistem.  
-- **Persiapan Program Kotlin**: Gradle, Kotlin DSL, plugin, dan dependensi.  
-- **Kotlin Fundamental**: Tipe data, fungsi, null safety, string template.  
-- **Control Flow**: If, when, perulangan, expression vs statement.  
-- **Kotlin OOP**: Class, properti, inheritance, interface.  
-- **Special Classes & Collections**: Pengelolaan data di Kotlin.  
-- **Functional Programming**: Lambda, higher-order functions, recursion.  
-- **Kotlin Generics**: Variance dan generic.  
-- **Coroutines**: Dasar concurrency dan penggunaan Coroutine.
-#### 🎓 **Evaluasi Pembelajaran** 
-- Ujian akhir dan proyek latihan.  
-- Total waktu pembelajaran: **50 jam**
+- **Pendahuluan**: Memperkenalkan sejarah Kotlin, mengapa harus mempelajari Kotlin, karakteristik Kotlin, dan bagaimana Kotlin berperan dalam pengembangan aplikasi. Akan dibahas juga tentang ekosistem Kotlin. (3 jam 30 menit)  
+- **Persiapan Membangun dan Menjalankan Program Kotlin**: Membuat program pertama di Kotlin dan menjalankannya. Selain itu, Anda akan belajar bagaimana menyiapkan dan menginstal beberapa tools seperti IDE dan build tools. Materi ini akan fokus pada penggunaan Gradle sebagai build tools dan menggunakan Kotlin DSL sebagai bahasa pada Gradle. Selain itu, pada materi ini akan membahas tentang struktur Gradle, cara menambahkan dependensi, menambahkan plugin, dan cara mengkonfigurasi plugin. (5 jam)  
+- **Kotlin Fundamental**: Memahami tentang teori dasar Kotlin dengan mempelajari konsep dasar dari Kotlin seperti menggunakan tipe data, membuat fungsi dasar, menangani tipe data null, dan membuat String Template. (6 jam)  
+- **Control Flow**: Mempelajari perbedaan antara expression dan statement, cara menggunakan enumeration, cara mengontrol aliran program menggunakan ekspresi if dan when, dan bagaimana menerapkan perulangan menggunakan while, do-while, dan break and continue. (3 jam 30 menit)  
+- **Kotlin Object-Oriented Programming**: Memahami mengenai konsep OOP pada Kotlin, bagaimana membuat sebuah class, properti dan fungsi dari class, dan mensimulasikan problematika dunia nyata dalam paradigma object-oriented programming (OOP). Memahami konsep OOP dengan mempelajari inheritance, abstract class, interface, visibility modifier, dan overloading. (8 jam)  
+- **Special Classes dan Collections**: Fokus pada bagaimana mengelola data di Kotlin dengan menggunakan special class dan collection. Anda juga akan belajar mengenai perbedaan antara collection yang ada pada Kotlin dan menggunakannya. (7 jam)  
+- **Kotlin Functional Programming**: Memahami konsep function programming dengan mempelajari extension, lambda, higher-order function, recursion serta melihat contoh penerapannya pada collection operator dan scope function. (4 jam 30 menit)  
+- **Kotlin Generics**: Belajar tentang variance dan cara menggunakan generic untuk membuat kelas yang dapat menerima berbagai jenis tipe data. (2 jam 30 menit)  
+- **Berkenalan dengan Coroutines**: Belajar dasar dari konsep concurrency seperti process dan thread. Anda juga akan diajarkan tentang permasalahan dalam proses yang bersamaan seperti deadlock, livelock, starvation, dan race condition. Dengan memahami permasalahan tersebut, Anda akan belajar menggunakan Coroutine dalam menyelesaikannya. (5 jam 30 menit)
+#### 🎓 **Evaluasi Pembelajaran**
+- Ujian akhir kelas  
+- Submission (proyek akhir) berupa proyek latihan yang berisi hasil pembelajaran mulai dari dasar Kotlin hingga concurrency.  
+- Total jam yang dibutuhkan untuk menyelesaikan kelas ini adalah **50 jam**.
+
 
 # 
 ### **Lulus Pada Kelas Belajar Membuat Aplikasi Android untuk Pemula. Progres(100%)**
 **6 Oktober 2024**
 ### 📚 **Materi yang Saya Pelajari**
-- **Pengenalan Android Studio**: Instalasi dan pengenalan komponen Android Studio.  
-- **Activity**: Membuat aplikasi pertama, desain UI, dan menggunakan `saveInstanceState`.  
-- **Intent**: Menggunakan implicit dan explicit intent, serta mendebug aplikasi.  
-- **View dan ViewGroup**: Mendesain aplikasi dengan berbagai layout (ConstraintLayout, LinearLayout, dll).  
-- **Style dan Theme**: Mendesain aplikasi lebih cepat dengan Style dan Theme.  
-- **RecyclerView**: Menampilkan list dengan RecyclerView dan menambahkan library seperti Glide untuk gambar.  
-#### 🎓 **Evaluasi Pembelajaran** 
-- **Submission (Proyek Akhir)**: Aplikasi dengan daftar konten dan detailnya.  
-- Total waktu pembelajaran: **60 jam**
+- **Pengenalan Android Studio**: Penjelasan tentang bagaimana menginstal Android Studio dan pengenalan dengan komponen-komponen yang sering dipakai di dalamnya. Ini akan memudahkan Anda untuk mengikuti latihan selanjutnya. (7 jam 20 menit)  
+- **Activity**: Di sini Anda akan membuat aplikasi pertama Anda. Mulai dari membuat desain dan menuliskan logika dasarnya, sampai penggunaan saveInstanceState untuk menjaga data karena perubahan lifecycle. (6 jam)  
+- **Intent**: Mendalami macam-macam Intent untuk berpindah antar Activity maupun aplikasi, seperti implicit intent dan explicit intent. Selain itu, Anda juga belajar tentang cara mendebug aplikasi jika terjadi error. (9 jam 20 menit)  
+- **View dan ViewGroup**: Di sini Anda akan mempelajari bagaimana mendesain aplikasi dengan berbagai macam layout, seperti ConstraintLayout, LinearLayout, FrameLayout, RelativeLayout, dan TableLayout. (6 jam 30 menit)  
+- **Style dan Theme**: Mempelajari cara mendesain aplikasi lebih cepat dan mudah dengan memanfaatkan Style dan Theme. (2 jam 40 menit)  
+- **RecyclerView**: Pada materi ini Anda akan belajar komponen yang sering dipakai untuk menampilkan list. Anda juga akan belajar cara menambahkan library seperti Glide untuk menampilkan gambar dari internet. (10 jam 20 menit)
+#### 🎓 **Evaluasi Pembelajaran**
+- Submission (proyek akhir) berupa sebuah aplikasi yang dapat menampilkan sebuah daftar konten beserta detailnya dengan tema bebas.  
+- Total jam yang dibutuhkan untuk menyelesaikan kelas ini adalah **60 jam**.
 
 #
 ### **Lulus Pada Kelas Belajar Fundamental Aplikasi Android. (Progres 100%)**
 **28 Oktober 2024**
 ### 📚 **Materi yang Saya Pelajari**
-- **Dasar Pengembangan Aplikasi Android**: Memahami Activity, Intent, layout, dan RecyclerView.  
-- **Fragment**: Membuat tampilan modular dan fleksibel dengan Fragment.  
-- **Navigation**: Menggunakan Navigation Component, Option Menu, Navigation Drawer, Bottom Navigation, dan Tab Layout dengan ViewPager2.  
-- **Background Thread dan Networking**: Proses asynchronous dan mengambil data dari Web API (JSON).  
-- **Android Architecture Component**: Menggunakan ViewModel dan LiveData untuk arsitektur yang mudah dibaca dan dipelihara.  
-- **Studi Kasus Implementasi Navigation dan API**: Membangun aplikasi dengan pencarian data Web API dan menu navigasi sesuai Material Design.  
-- **Testing**: Menguji aplikasi dengan Unit Testing dan Instrumentation Testing.  
-- **Local Data Persistent**: Menyimpan data dengan File Storage, DataStore, dan database Room.  
-- **Background Task dan Scheduler**: Menjalankan task di background dengan AlarmManager dan WorkManager.
-#### 🎓 **Evaluasi Pembelajaran**  
-- **Submission (Proyek Akhir)**: Aplikasi yang dapat mengambil data dari Web API dan menyimpan data favorit menggunakan database lokal.  
-- Total waktu pembelajaran: **140 jam**
+- **Dasar Pengembangan Aplikasi Android**: Mempelajari berbagai topik tingkat pemula apa saja yang perlu dipahami pada pengembangan sebuah aplikasi Android sebelum dapat belajar teknik yang lebih kompleks, seperti memahami Activity, Intent, layout, dan RecyclerView. (3 jam 20 menit)  
+- **Fragment**: Mengetahui konsep Fragment untuk membuat tampilan yang modular dan fleksibel. (4 jam 30 menit)  
+- **Navigation**: Mengetahui cara menggunakan berbagai macam komponen navigasi, seperti Navigation Component, Option Menu pada Action Bar, Navigation Drawer, Bottom Navigation, dan Tab Layout dengan ViewPager2. (13 jam)  
+- **Background Thread dan Networking**: Mendalami cara mengeksekusi proses secara asynchronous di background thread supaya tidak terjadi freeze serta memahami cara mengambil data dari Web API yang berformat JSON dan mem-parsing-nya. (9 jam 45 menit)  
+- **Android Architecture Component**: Mengetahui architecture pattern yang direkomendasikan Google untuk membuat kode yang mudah dibaca dan dipelihara, yakni dengan menggunakan ViewModel dan LiveData. (9 jam)  
+- **Studi Kasus Implementasi Navigation dan API**: Menguji pemahaman siswa dalam implementasi pengetahuan dengan cara membuat aplikasi yang dapat melakukan pencarian data dari Web API dan membuat menu navigasi yang sesuai dengan Material Design. (28 jam)  
+- **Testing**: Memahami cara untuk menguji aplikasi secara otomatis dengan melakukan Unit Testing dan Instrumentation Testing. (4 jam 30 menit)  
+- **Local Data Persistent**: Menjelaskan macam-macam cara untuk menyimpan data di Android seperti File Storage, DataStore, dan database Room. (26 jam)  
+- **Background Task dan Scheduler**: Menjelaskan berbagai cara untuk menjalankan task di background dan beberapa komponen untuk Scheduler seperti AlarmManager dan WorkManager. (11 jam 50 menit)
+#### 🎓 **Evaluasi Pembelajaran**
+- Submission (proyek akhir) berupa sebuah aplikasi yang dapat mengambil data dari Web API dan menyimpan data favorit menggunakan database lokal.  
+- Total jam yang dibutuhkan untuk menyelesaikan kelas ini adalah **140 jam**.
 
 #
-### **Lulus pada Kelas Belajar Dasar AI**
+### **Lulus pada Kelas Belajar Dasar AI. (Progres 100%)**
 **30 Oktober 2024**
-### 📚 **Materi yang Saya Pelajari**  
-- **Berkenalan dengan Artificial Intelligence (AI)**: Memahami konsep dasar tentang AI.  
-- **Data untuk AI**: Pemanfaatan data dalam pengembangan AI.  
-- **Pengantar Machine Learning**: Konsep dasar Machine Learning dan contoh penerapannya.  
-- **Deep Learning Untuk Semua Orang**: Konsep penting dalam Deep Learning dan implementasi penerapannya.  
-#### 🎓 **Evaluasi Pembelajaran**  
-- **Ujian Akhir Kelas**  
-- Total waktu pembelajaran: **10 jam**
+### 📚 **Materi yang Saya Pelajari**
+- **Berkenalan dengan Artificial Intelligence (AI)**: Mengidentifikasi konsep dasar tentang AI. (1 jam 30 menit)  
+- **Data untuk AI**: Memaparkan konsep dasar tentang data serta pemanfaatannya dalam pengembangan AI. (1 jam 25 menit)  
+- **Pengantar Machine Learning**: Menjelaskan konsep dasar Machine Learning sebagai bagian dari AI beserta contoh penerapannya. (2 jam 30 menit)  
+- **Deep Learning Untuk Semua Orang**: Mengidentifikasi konsep penting dalam Deep Learning beserta mengimplementasikan contoh penerapannya. (2 jam 25 menit)
+#### 🎓 **Evaluasi Pembelajaran**
+- Ujian akhir kelas  
+- Total jam yang dibutuhkan untuk menyelesaikan kelas ini adalah **10 jam**.
+
 
 #
-### **Belajar Penerapan Machine Learning untuk Android**  
+### **Belajar Penerapan Machine Learning untuk Android. (Progres 100%)**  
 **19 November 2024**
 ### 📚 **Materi yang Saya Pelajari**
 - **Machine Learning di Android**: Memahami alasan perlunya menggunakan ML di Android dengan melihat beberapa contoh implementasinya. Setelah itu, Anda juga memahami berbagai macam cara dan framework yang bisa digunakan. (4 jam)  
@@ -75,7 +78,7 @@
 - Total jam yang dibutuhkan untuk menyelesaikan kelas ini adalah **60 jam**.
 
 #
-### **Belajar Pengembangan Aplikasi Android Intermediate**  
+### **Belajar Pengembangan Aplikasi Android Intermediate. (Progres 100%)**  
 **25 Desember 2024**
 ### 📚 **Materi yang Saya Pelajari**
 - **Advanced UI**: Memahami bagaimana meningkatkan pengalaman pengguna dengan menggunakan Custom View, Widget, dan WebView. (11 jam 50 menit)  
