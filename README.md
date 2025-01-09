@@ -93,3 +93,18 @@
 #### 🎓 **Evaluasi Pembelajaran**
 - Submission (proyek akhir) berupa sebuah aplikasi Android bertema story app yang dapat digunakan untuk berbagi foto dengan menerapkan Paging.  
 - Total jam yang dibutuhkan untuk menyelesaikan kelas ini adalah **150 jam**.
+
+# 
+### **Belajar Git dan GitHub. (Progres 100%)**  
+**10 Januari 2025**
+### 📚 **Materi yang Saya Pelajari**  
+- **Git dan GitHub**: Memahami apa itu Git dan GitHub serta manfaatnya dalam mengelola data atau kode. (1 jam 45 menit)  
+- **Dasar Git**: Memahami dasar-dasar pengelolaan data atau kode dengan Git, seperti membuat repository, membuat berkas, `git commit`, dan `git checkout`. (2 jam 5 menit)  
+- **Studi Kasus Pengalaman Belajar**: Meningkatkan pengalaman belajar mengenai dasar-dasar Git melalui sebuah studi kasus. (1 jam 20 menit)  
+- **Git Branches**: Memahami konsep branching di dalam Git, termasuk mempelajari merging dan menyelesaikan conflict. (2 jam 10 menit)  
+- **Kolaborasi dengan Tim**: Memahami cara berkolaborasi dengan tim lain pada repository yang sama, termasuk melakukan forking, squashing changes, dan code reviews. (2 jam 50 menit)  
+- **Studi Kasus Kolaborasi dengan Tim**: Meningkatkan pengetahuan dalam berkolaborasi dengan tim, seperti membuat repository baru, menyalin repository, dan studi kasus menangani pull request pada sebuah repository aktif di GitHub. (1 jam 15 menit)  
+- **GitHub sebagai Portofolio**: Memahami penggunaan GitHub sebagai portofolio dengan latihan membuat README yang dapat dimanfaatkan sebagai portofolio dalam berkarier. (1 jam 20 menit) 
+### 🎓 **Evaluasi Pembelajaran**  
+- **Ujian Akhir Kelas**: Menguji pemahaman dengan menyelesaikan tugas akhir terkait penggunaan Git dan GitHub.  
+- **Total Waktu**: **15 jam** diperlukan untuk menyelesaikan seluruh materi dan evaluasi pembelajaran.
