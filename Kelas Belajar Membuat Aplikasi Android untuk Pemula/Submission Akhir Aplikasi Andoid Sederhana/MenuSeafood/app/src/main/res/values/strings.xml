@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MenuSeafoodList</string>
+    <string name="MenuSeafood_Name">Nama Seafood</string>
+    <string name="description">Deskripsi</string>
+    <string name="Detail">Detail</string>
+
+    <string-array name="data_name">
+        <item>Cumi-Cumi</item>
+        <item>Gurita</item>
+        <item>Kepiting</item>
+        <item>Kerang</item>
+        <item>Lobster</item>
+        <item>Rumput Lau</item>
+        <item>Salmon</item>
+        <item>Sarden</item>
+        <item>Tiram</item>
+        <item>Udang</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Cumi adalah moluska dengan tubuh panjang dan tentakel, biasanya diolah sebagai calamari, dibakar, atau dimasak dalam kari.</item>
+        <item>Gurita memiliki daging kenyal dan digunakan dalam hidangan seperti takoyaki, sashimi, atau dipanggang.</item>
+        <item>Kepiting memiliki daging manis dan lembut, biasa disajikan dalam hidangan seperti kepiting saus padang.</item>
+        <item>Kerang memiliki daging lembut dan manis, sering digunakan dalam pasta, sup, atau hidangan panggang.</item>
+        <item>Lobster terkenal dengan dagingnya yang kaya dan tebal, biasanya direbus atau dipanggang, disajikan dengan mentega cair.</item>
+        <item>Rumput laut adalah alga laut dengan tekstur kenyal dan rasa sedikit asin, sering digunakan dalam sushi atau salad.</item>
+        <item>Salmon adalah ikan dengan daging berwarna oranye atau merah muda, terkenal kaya omega-3 dan sering diolah menjadi sushi atau sashimi.</item>
+        <item>Sarden adalah ikan kecil yang biasanya dikemas dalam kaleng dengan minyak, air, atau saus tomat, sering digunakan sebagai lauk atau bahan salad.</item>
+        <item>Tiram memiliki daging kenyal dan sedikit asin, sering dimakan mentah dengan perasan lemon atau saus asam.</item>
+        <item>Udang memiliki daging manis dan lembut, sering dimasak dengan berbagai cara seperti digoreng.</item>
+    </string-array>
+
+    <string-array name="Detail">
+        <item>Cumi-cumi sangat kaya akan protein dan rendah lemak, menjadikannya pilihan tepat untuk diet sehat. Selain itu, cumi juga mengandung omega-3, vitamin B12, serta zat besi, yang mendukung kesehatan jantung dan otak. Dalam kuliner modern, cumi diolah dengan teknik inovatif seperti panggangan arang yang memberikan aroma smokey atau dipadukan dengan saus manis-pedas khas Korea. Di Jepang, cumi juga sering dimasak dengan tinta hitamnya sendiri, menghasilkan hidangan dengan rasa gurih dan tekstur unik. Cumi-cumi kini semakin diminati sebagai bahan utama dalam masakan fusion yang memadukan rasa dari berbagai negara.</item>
+        <item>Gurita adalah sumber protein berkualitas tinggi yang rendah lemak, serta kaya akan omega-3, vitamin B12, dan kolagen yang baik untuk kesehatan kulit dan sendi. Tren kuliner modern mengembangkan metode memasak gurita dengan teknik sous-vide, yang membuat dagingnya lebih lembut dan mempertahankan semua nutrisinya. Di Mediterania, gurita disajikan dengan bumbu herbal dan minyak zaitun, sementara di Jepang, potongan gurita mentah menjadi bagian penting dari sushi dan sashimi. Hidangan gurita dengan teknik slow-cooking juga menjadi populer, membuatnya lebih lembut dan lezat tanpa kehilangan tekstur kenyalnya.</item>
+        <item>Kepiting terkenal karena kandungan proteinnya yang tinggi dan rendah kalori, serta kaya akan omega-3, selenium, dan vitamin B12, yang bermanfaat untuk kesehatan jantung dan sistem kekebalan tubuh. Dalam dunia kuliner modern, kepiting tidak hanya diolah secara tradisional, tetapi juga sering disajikan dengan saus beraroma seperti saus truffle atau mentega lemon. Hidangan kepiting soft-shell (kulit lunak) juga semakin diminati karena dapat dimakan bersama kulitnya. Kepiting dengan saus pedas khas Asia atau bumbu aromatik ala Barat menjadi pilihan utama di restoran fusion, menciptakan perpaduan rasa yang menggugah selera. Inovasi lain termasuk pasta dengan kepiting dan saus krim.</item>
+        <item>Kerang mengandung banyak protein, mineral seperti zinc, dan rendah lemak, menjadikannya pilihan makanan laut yang sehat. Dalam tren kuliner modern, kerang sering dimasak dengan bumbu-bumbu aromatik seperti bawang putih, anggur putih, dan herba. Hidangan seperti "Clams à la marinara" dengan saus tomat pedas dan kerang panggang dengan rempah menjadi favorit di restoran fine-dining. Di Asia, kerang digunakan dalam masakan berkuah dengan saus kari dan bumbu pedas. Kerang juga populer dihidangkan mentah, disajikan dengan perasan lemon untuk mempertahankan rasa asli laut.</item>
+        <item>Lobster adalah makanan laut mewah yang kaya akan protein, vitamin B12, zinc, dan selenium. Kini, lobster sering digunakan dalam hidangan haute cuisine dengan saus gourmet seperti beurre blanc atau saus beraroma lemon. Lobster panggang dengan saus mentega truffle juga menjadi tren populer. Selain itu, hidangan lobster roll ala Amerika, yang memadukan daging lobster dengan roti lembut dan mayones, semakin diminati. Di Asia, lobster sering dimasak dengan saus sambal atau saus tiram yang pedas, menghadirkan perpaduan rasa yang kuat. Restoran modern juga mulai mengeksplorasi lobster dengan teknik masak molekuler untuk menciptakan tekstur baru yang lebih lembut dan juicy.</item>
+        <item>Rumput laut dikenal sebagai superfood karena kaya akan mineral, terutama yodium, kalsium, dan zat besi, yang mendukung fungsi tiroid dan kesehatan tulang. Dalam tren makanan sehat, rumput laut sering dijadikan camilan kering atau digunakan sebagai bahan utama dalam salad berbasis vegetarian. Di Jepang, rumput laut seperti nori dan kombu menjadi bahan dasar untuk membuat kaldu dashi, esensial dalam masakan Jepang. Di Korea, rumput laut juga digunakan dalam sup ulang tahun (Miyeok Guk) yang dipercaya memiliki manfaat penyembuhan pasca melahirkan. Selain itu, rumput laut juga kaya antioksidan dan serat, membantu pencernaan dan menurunkan kadar kolesterol.</item>
+        <item>Salmon kaya akan asam lemak omega-3, yang baik untuk kesehatan jantung, serta mengandung vitamin D, penting untuk kekuatan tulang. Dalam kuliner modern, salmon sering dipanggang dengan saus teriyaki atau dipadukan dengan bumbu ala mediterania seperti lemon dan rosemary. Selain itu, hidangan salmon sashimi menjadi tren dalam gaya makan sehat yang rendah kalori. Salmon asap juga populer untuk sarapan dihidangkan dengan bagel dan keju krim. Dalam beberapa teknik memasak canggih, salmon sering diolah dengan metode confit atau poaching dalam minyak zaitun, menghasilkan tekstur yang sangat lembut dan rasa yang kaya.</item>
+        <item>Sarden kaya akan kalsium, omega-3, dan vitamin D, menjadikannya makanan yang sangat bergizi. Selain versi kalengan, sarden segar kini semakin populer diolah dengan cara panggang dan disajikan dengan lemon atau saus bawang putih. Di Eropa, sarden panggang sering dihidangkan di festival makanan laut, terutama di wilayah Mediterania. Sarden juga semakin digunakan dalam hidangan pasta ala Italia dengan tomat dan capers, menciptakan rasa gurih dan kaya. Sarden kalengan tetap menjadi pilihan favorit untuk makanan cepat saji sehat yang kaya nutrisi dan murah.</item>
+        <item>Tiram dikenal karena kandungan zinc yang tinggi, yang mendukung sistem kekebalan tubuh dan kesehatan reproduksi. Dalam tren makanan mewah, tiram sering disajikan dengan saus eksklusif seperti saus mignonette atau saus ponzu. Tiram panggang dengan mentega bawang putih menjadi salah satu pilihan dalam menu seafood restoran fine dining. Selain itu, tiram juga digunakan dalam festival kuliner di Prancis dan Amerika Serikat, di mana tiram mentah dihidangkan dalam piringan es dengan berbagai saus unik. Tiram juga populer dalam masakan Asia, terutama sebagai bagian dari hotpot dan saus tiram untuk tumisan.</item>
+        <item>Udang kaya akan protein dan rendah kalori, membuatnya ideal untuk menu diet sehat. Hidangan udang modern semakin beragam, dari udang goreng tepung khas Jepang (tempura) hingga hidangan ala Louisiana seperti udang Cajun. Udang juga sering digunakan dalam salad sehat atau dimasak dalam saus krim ala Italia. Hidangan populer lainnya termasuk pasta udang dengan saus pesto atau saus tomat pedas. Selain itu, udang kini juga digunakan dalam sushi dan dimasak bersama nasi dalam masakan Paella khas Spanyol.</item>
+    </string-array>
+
+    <string name="default_description">Deskripsi tidak tersedia.</string>
+
+    <integer-array name="data_photo">
+        <item>@drawable/cumi</item>
+        <item>@drawable/gurita</item>
+        <item>@drawable/kepiting</item>
+        <item>@drawable/kerang</item>
+        <item>@drawable/lobster</item>
+        <item>@drawable/rumput</item>
+        <item>@drawable/salmon</item>
+        <item>@drawable/sarden</item>
+        <item>@drawable/tiram</item>
+        <item>@drawable/udang</item>
+    </integer-array>
+
+</resources>
