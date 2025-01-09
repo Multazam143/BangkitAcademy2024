@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/proyek-submission-mpk-2.1.0/buildSrc" name="buildSrc">
+                <projects>
+                  <project path="$PROJECT_DIR$/proyek-submission-mpk-2.1.0/buildSrc" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/proyek-submission-mpk-2.1.0" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/proyek-submission-mpk-2.1.0" />
+            <option value="$PROJECT_DIR$/proyek-submission-mpk-2.1.0/buildSrc" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
