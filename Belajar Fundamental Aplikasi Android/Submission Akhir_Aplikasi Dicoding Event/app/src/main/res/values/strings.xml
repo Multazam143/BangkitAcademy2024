@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EventDikoding</string>
+    <string name="title_dashboard">Finished Event</string>
+    <string name="title_notifications">Upcoming Event</string>
+    <string name="description">Deskripsi</string>
+    <string name="open_link">Register</string>
+    <string name="event_title">Event Title: %1$s</string>
+    <string name="owner_name">Penyelenggara: %1$s</string>
+    <string name="begin_time">Waktu: %1$s</string>
+    <string name="quota">Sisa Kuota: %1$d</string>
+    <string name="fab_description">Favorite Button</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="setting">Setting</string>
+</resources>

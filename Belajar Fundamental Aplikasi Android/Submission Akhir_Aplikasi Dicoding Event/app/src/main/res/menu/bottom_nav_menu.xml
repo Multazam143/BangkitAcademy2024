@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Upcoming"
+        android:icon="@drawable/ic_upcoming_event_24dp"
+        android:title="@string/title_notifications" />
+
+    <item
+        android:id="@+id/navigation_Finishead"
+        android:icon="@drawable/ic_finished_event_24dp"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_favoritefull_24"
+        android:title="@string/title_favorite" />
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@drawable/ic_setting_24"
+        android:title="@string/setting" />
+
+</menu>
