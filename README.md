@@ -1,4 +1,5 @@
 # Bangkit-Academy-2024
+Bangkit Academy adalah platform pendidikan online yang menyediakan program pelatihan untuk mengembangkan keterampilan di bidang teknologi, khususnya dalam pengembangan perangkat lunak dan data science. Program yang ditawarkan di Bangkit Academy dirancang untuk membantu para profesional muda, mahasiswa, dan lulusan untuk mempersiapkan diri menghadapi tantangan dunia kerja dengan memberikan kursus yang mendalam dan proyek nyata. Bangkit Academy juga berkolaborasi dengan perusahaan-perusahaan teknologi besar untuk memberikan pelatihan yang relevan dengan kebutuhan industri.
 
 ### **Lulus Pada Kelas Memulai Pemrograman dengan Kotlin. (Progres 100%)**
 **25 September 2024**
